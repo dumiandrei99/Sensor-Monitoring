@@ -1,0 +1,2 @@
+URL name was too long to include in CV.
+You can check the git history on gitlab: https://gitlab.com/ds2021_30642_dumitrescu_andrei/ds2021_30642_dumitrescu_andrei_3_frontend
